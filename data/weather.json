@@ -16,22 +16,22 @@
     "temp": 14.97,
     "feels_like": 14.74,
     "temp_min": 14.75,
-    "temp_max": 15.69,
-    "pressure": 1021,
+    "temp_max": 15.14,
+    "pressure": 1020,
     "humidity": 85,
-    "sea_level": 1021,
-    "grnd_level": 1004
+    "sea_level": 1020,
+    "grnd_level": 1002
   },
-  "visibility": 6991,
+  "visibility": 10000,
   "wind": {
-    "speed": 1.79,
+    "speed": 0.89,
     "deg": 87,
-    "gust": 3.58
+    "gust": 1.79
   },
   "clouds": {
-    "all": 86
+    "all": 90
   },
-  "dt": 1791025588,
+  "dt": 1791042265,
   "sys": {
     "type": 2,
     "id": 46775,
@@ -43,5 +43,5 @@
   "id": 3143244,
   "name": "Oslo",
   "cod": 200,
-  "_last_updated_utc": "2026-10-03T11:13:15.764Z"
+  "_last_updated_utc": "2026-10-03T15:51:52.673Z"
 }
